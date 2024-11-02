@@ -1,4 +1,4 @@
-module github.com/rgerardi/hellogo
+module github.com/radovancemes/hellogo
 
 go 1.20
 
